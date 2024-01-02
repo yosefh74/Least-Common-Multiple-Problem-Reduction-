@@ -1,0 +1,4 @@
+1)	Introduction to The Design and Analysis of Algorithms (book)
+2)	Chat GPT
+3)	https://www.geeksforgeeks.org/problem-reduction-in-transform-and-conquer-technique/
+4)	https://www.youtube.com/watch?v=Y7Xav-XAhXs
